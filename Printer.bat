@@ -1,5 +1,5 @@
 @ECHO OFF
-REM From:https://github.com/azavie/Batch-for-edu
+REM From:https://github.com/azavie/EDU-Batch
 REM This is a script to install a specified network printer for which you have the driver and know the IP Address.
 REM The script is made for Windows 7 and up, though paths may change between OS
 REM Documentation is included and there are reference links for the scripts and programs called.
